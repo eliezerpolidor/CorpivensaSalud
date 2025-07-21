@@ -7,7 +7,7 @@ html, body {
   padding: 0;
   height: 100%;
   /*font-family: 'Roboto', sans-serif; */
-  background-image: url('/HtmlCss/img/trabajadores.jpg');
+  background-image: url('./trabajadores.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

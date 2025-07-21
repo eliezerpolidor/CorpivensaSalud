@@ -149,7 +149,7 @@ nav .desktop .secondary.mini{
     padding: 2px 5px;
     text-align: center;
     z-index: 1000;
-    font-size: 1vw;
+    font-size: 10px;
     /*position: relative;*/
 
 
@@ -170,13 +170,13 @@ nav .desktop .secondary.mini{
   height: 80px;
   background-color: #004080;
   color: white;
-  font-size: 2vw;
+  font-size: 20px;
   line-height: 60px;
   text-align: center;
   border-radius: 8px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.2);
   transform-origin: 200px 200px;
-  animation: girar 10s linear infinite;
+  animation: girar 20s linear infinite;
 }
 
 .ficha:nth-child(1) { transform: rotateY(0deg) translateZ(200px); animation-delay: 0s; }
